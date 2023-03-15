@@ -19,8 +19,8 @@
 
 ;;; 1.2 命名和环境
 
-(define pi 3.14159)
-(define radius 10)
+; (define pi 3.14159)
+; (define radius 10)
 
 ; (display (* pi (* radius radius))) ; 314.159
 
